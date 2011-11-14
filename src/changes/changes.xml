@@ -1,0 +1,10 @@
+<document>
+    <properties>
+        <title>Changes Capturing Application</title>
+    </properties>
+    <body>
+        <release version="0.1.1" date="2011-08-14" description="Bugfix release">
+            <action type="fix"></action>
+        </release>
+    </body>
+</document>
